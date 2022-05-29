@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am a fast learner and I mostly love to work in team.**
 
+<a href="https://stars.github.com/nominate/">If you love my work, then do nominate me for github star</a> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/iriteshmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/iriteshmishra" height="30" width="40" /></a>
