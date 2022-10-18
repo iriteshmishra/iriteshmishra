@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **I am a fast learner and I mostly love to work in team.**
 
-[![@iriteshmishra's Holopin board](https://holopin.me/iriteshmishra)](https://holopin.io/@iriteshmishra)
-
 <a href="https://stars.github.com/nominate/">If you love my work, then do nominate me for github star</a> 
 
 <h3 align="left">Connect with me:</h3>
