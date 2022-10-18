@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am a fast learner and I mostly love to work in team.**
 
+[![@iriteshmishra's Holopin board](https://holopin.me/iriteshmishra)](https://holopin.io/@iriteshmishra)
+
 <a href="https://stars.github.com/nominate/">If you love my work, then do nominate me for github star</a> 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iriteshmishra&show_icons=true&locale=en&layout=compact" alt="iriteshmishra" /></p>
 
-[![@iriteshmishra's Holopin board](https://holopin.me/iriteshmishra)](https://holopin.io/@iriteshmishra)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iriteshmishra&show_icons=true&locale=en" alt="iriteshmishra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iriteshmishra&" alt="iriteshmishra" /></p>
